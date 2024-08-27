@@ -30,3 +30,5 @@ require (
 	golang.org/x/sys v0.24.0 // indirect
 	golang.org/x/text v0.17.0 // indirect
 )
+
+replace github.com/charmbracelet/x/exp/golden v0.0.0-20240806155701-69247e0abc2a => github.com/pranavkrishnan02/x/exp/golden v0.0.1

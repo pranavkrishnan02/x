@@ -13,7 +13,7 @@ import (
 	"time"
 
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/charmbracelet/x/exp/golden"
+	"github.com/pranavkrishnan02/x/exp/golden"
 )
 
 // Program defines the subset of the tea.Program API we need for testing.
