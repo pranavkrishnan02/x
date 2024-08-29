@@ -1,4 +1,4 @@
-module github.com/charmbracelet/x/exp/teatest
+module github.com/pranavkrishnan02/x/exp/teatest
 
 go 1.19
 
@@ -31,4 +31,4 @@ require (
 	golang.org/x/text v0.17.0 // indirect
 )
 
-replace github.com/charmbracelet/x/exp/golden v0.0.0-20240806155701-69247e0abc2a => github.com/pranavkrishnan02/x/exp/golden v0.0.1
+replace github.com/charmbracelet/x/exp/golden => github.com/pranavkrishnan/x/exp/golden v0.0.3
